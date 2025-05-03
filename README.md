@@ -9,6 +9,6 @@
 
 ## Установка 
 ```bash
-https://github.com/Ksenia2302/CurrencyConverter.git
+git clone https://github.com/Ksenia2302/CurrencyConverter.git
 cd CurrencyConverter
 pip install -r requirements.txt
